@@ -69,13 +69,6 @@ const Home: React.FC = () => {
           Submit
         </Button>
       </form>
-      <Button
-        variant="contained"
-        color="primary"
-        // onClick={() => router.push("/main")}
-      >
-        Submit
-      </Button>
     </Container>
   );
 };
