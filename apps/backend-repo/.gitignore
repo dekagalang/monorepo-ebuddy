@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# IDE specific files
+.idea/
+.vscode/
+.DS_Store
+
+# TypeScript specific files
+*.tsbuildinfo
+
+# Firebase service account JSON
+firebase-ebuddy.json
